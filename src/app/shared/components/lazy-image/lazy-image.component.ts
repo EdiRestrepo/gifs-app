@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+// import loader from '../../../../assets/loader.svg'
 
 @Component({
   selector: 'shared-lazy-image',
